@@ -7,18 +7,18 @@ I'm Elena, and I'm currently a computer science student at Barnard College. I ha
 
 I have taken the following courses related to computer science:
 
-  Introduction to Computer Science and Programming in Java
+Introduction to Computer Science and Programming in Java
   
-  Data Structures in Java
+Data Structures in Java
   
-  Calculus I
+Calculus I
   
 
 I am currently taking the following courses:
 
-  Advanced Programming (C, command line interface, Git)
+Advanced Programming (C, command line interface, Git)
   
-  Calculus III
+Calculus III
   
 
 
