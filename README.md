@@ -1,4 +1,4 @@
-# welcome
+# about me
 
 I'm Elena, and I'm currently a computer science student at Barnard College. I have most experience using Java and Python for programming. 
 
