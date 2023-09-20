@@ -2,7 +2,7 @@
 
 I'm Elena, and I'm currently a computer science student at Barnard College. I have most experience using Java and Python for programming. 
 
-I currently have no public projects, though if you would like to see my final project from Break Through Tech, please ask for access.
+I currently have no public projects, though if you would like to see my final project from Break Through Tech or any information about my coursework, please ask for access to the repository. If you are interested in the work I completed for courses, please ask me via the email I provided on my resume. There is not public access to these files to avoid publishing my solutions.
 
 
 
