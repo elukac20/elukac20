@@ -12,7 +12,7 @@ I have taken the following courses related to computer science:
   
 - COMS W3134: Data Structures in Java
   
-- COMS W3157: Advanced Programming (systems programming, including: C, command line interface, Git)
+- COMS W3157: Advanced Programming (systems programming, including: C, command line interface, Git, TCP, HTTP, Socket API)
 
 - MATH UN1101: Calculus I
   
