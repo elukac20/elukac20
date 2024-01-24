@@ -22,6 +22,6 @@ I am currently taking:
 
 - COMS W4111: Introduction to Databases
 
-- CSEE W3827: Fundamentals of Computer Science
+- CSEE W3827: Fundamentals of Computer Systems
 
 - COMS W3203: Discrete Mathematics
