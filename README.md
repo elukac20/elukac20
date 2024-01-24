@@ -18,7 +18,7 @@ I have taken the following courses related to computer science:
   
 - MATH UN1201: Calculus III
   
-In Spring 2024, I will be taking:
+I am currently taking:
 
 - COMS W4111: Introduction to Databases
 
