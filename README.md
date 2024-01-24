@@ -6,7 +6,7 @@ I currently have no public projects, though if you would like to see my final pr
 
 
 
-I have taken the following courses related to computer science:
+I have completed the following courses related to computer science:
 
 - COMS W1004: Introduction to Computer Science and Programming in Java
   
