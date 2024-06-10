@@ -14,7 +14,7 @@ I have completed the following courses related to computer science:
 - MATH UN1101: Calculus I
 - MATH UN1201: Calculus III
 - COMS W4111: Introduction to Databases
-- CSEE W3827: Fundamentals of Computer Systems
+- CSEE W3827: Fundamentals of Computer Systems (digital logic design and MIPS, learning components of a pipelined microprocessor)
 - COMS W3203: Discrete Mathematics
   
 In Fall 2024, I will take:
