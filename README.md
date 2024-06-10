@@ -9,19 +9,14 @@ I currently have no public projects, though if you would like to see my final pr
 I have completed the following courses related to computer science:
 
 - COMS W1004: Introduction to Computer Science and Programming in Java
-  
 - COMS W3134: Data Structures in Java
-  
 - COMS W3157: Advanced Programming (systems programming, including: C, command line interface, Git, TCP, HTTP, Socket API)
-
 - MATH UN1101: Calculus I
-  
 - MATH UN1201: Calculus III
-  
-I am currently taking:
-
 - COMS W4111: Introduction to Databases
-
 - CSEE W3827: Fundamentals of Computer Systems
-
 - COMS W3203: Discrete Mathematics
+  
+In Fall 2024, I will take:
+- COMS W3261: Computer Science Theory
+- MATH UN2010: Linear Algebra
