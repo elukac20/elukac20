@@ -16,8 +16,6 @@ I have completed the following courses related to computer science:
 - COMS W4111: Introduction to Databases
 - CSEE W3827: Fundamentals of Computer Systems (digital logic design and MIPS, learning components of a pipelined microprocessor)
 - COMS W3203: Discrete Mathematics
-  
-In Fall 2024, I am taking:
 - COMS W3261: Computer Science Theory
 - MATH UN2010: Linear Algebra
 - COMS W4170: User Interface Design (the design process and JavaScript, HTML, CSS, JQuery)
