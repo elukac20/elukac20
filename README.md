@@ -6,7 +6,7 @@ If you would like to see my final project from the summer portion of Break Throu
 
 
 
-I have completed the following courses related to computer science:
+I have completed the following courses related to computer science and data science:
 
 - COMS W1004: Introduction to Computer Science and Programming in Java
 - COMS W3134: Data Structures in Java
@@ -19,3 +19,8 @@ I have completed the following courses related to computer science:
 - COMS W3261: Computer Science Theory
 - MATH UN2010: Linear Algebra
 - COMS W4170: User Interface Design (the design process and JavaScript, HTML, CSS, JQuery)
+
+In progress, Spring 2025:
+- COMS BC3997: LLM Foundations & Ethics
+- STAT UN1101: Introduction to Statistics
+- STAT UN2102: Applied Statistical Computing
