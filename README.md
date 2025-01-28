@@ -23,4 +23,4 @@ I have completed the following courses related to computer science and data scie
 In progress, Spring 2025:
 - COMS BC3997: LLM Foundations & Ethics
 - STAT UN1101: Introduction to Statistics
-- STAT UN2102: Applied Statistical Computing
+- STAT UN2102: Applied Statistical Computing (data visualization, exploratory data analysis in R)
