@@ -13,11 +13,11 @@ I have completed the following courses related to computer science and data scie
 - COMS W3157: Advanced Programming (systems programming, including: C, command line interface, Git, TCP, HTTP, Socket API)
 - MATH UN1101: Calculus I
 - MATH UN1201: Calculus III
+- MATH UN2010: Linear Algebra
+- COMS W3203: Discrete Mathematics
 - COMS W4111: Introduction to Databases (including SQL, NoSQL)
 - CSEE W3827: Fundamentals of Computer Systems (digital logic design and MIPS, learning components of a pipelined microprocessor)
-- COMS W3203: Discrete Mathematics
-- COMS W3261: Computer Science Theory
-- MATH UN2010: Linear Algebra
+- COMS W3261: Computer Science Theory (languages, Turing machines, complexity theory)
 - COMS W4170: User Interface Design (the design process and JavaScript, HTML, CSS, JQuery)
 
 In progress, Spring 2025:
