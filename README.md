@@ -1,6 +1,6 @@
 # about me!
 
-I'm Elena, and I'm currently a computer science student at Barnard College of Columbia University. I have most experience using Java and Python for programming, and I have project experience using Python for AI/ML. I also have experience with data manipulation and querying using SQL.
+I'm Elena, and I'm currently a computer science student at Barnard College of Columbia University. I have most experience using Java and Python for programming, and I have project experience using Python for AI/ML. I also have experience with data manipulation and querying using SQL and R.
 
 If you would like to see my final project from the summer portion of Break Through Tech (in which I completed coursework in machine learning), please ask for access to the repository. If you are interested in the work I completed for courses, please ask me via the email I provided on my resume. There is no public access to these files to avoid publishing my solutions.
 
