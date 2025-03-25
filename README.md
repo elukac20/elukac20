@@ -16,7 +16,7 @@ I have completed the following courses related to computer science and data scie
 - MATH UN2010: Linear Algebra
 - COMS W3203: Discrete Mathematics
 - COMS W4111: Introduction to Databases (including SQL, NoSQL)
-- CSEE W3827: Fundamentals of Computer Systems (digital logic design and MIPS, learning components of a pipelined microprocessor)
+- CSEE W3827: Fundamentals of Computer Systems (digital logic design and MIPS, components of a pipelined microprocessor)
 - COMS W3261: Computer Science Theory (languages, Turing machines, complexity theory)
 - COMS W4170: User Interface Design (the design process and JavaScript, HTML, CSS, JQuery)
 
