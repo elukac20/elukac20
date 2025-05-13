@@ -9,6 +9,7 @@ If you would like to see my final project from the summer portion of Break Throu
 I have completed the following courses related to computer science and data science:
 
 - COMS W1004: Introduction to Computer Science and Programming in Java
+- - STAT UN1101: Introduction to Statistics
 - COMS W3134: Data Structures in Java
 - COMS W3157: Advanced Programming (systems programming, including: C, command line interface, Git, TCP, HTTP, Socket API)
 - MATH UN1101: Calculus I
@@ -19,6 +20,5 @@ I have completed the following courses related to computer science and data scie
 - CSEE W3827: Fundamentals of Computer Systems (digital logic design and MIPS, components of a pipelined microprocessor)
 - COMS W3261: Computer Science Theory (languages, Turing machines, complexity theory)
 - COMS W4170: User Interface Design (the design process and JavaScript, HTML, CSS, JQuery)
-- COMS BC3997: LLM Foundations & Ethics
-- STAT UN1101: Introduction to Statistics
+- COMS BC3997: LLM Foundations & Ethics (project using BERT and clustering, PMI, and Gemma3 to analyze database of flagged NSF research award descriptions released by a Senate Committee)
 - STAT UN2102: Applied Statistical Computing (data visualization, exploratory data analysis in R)
