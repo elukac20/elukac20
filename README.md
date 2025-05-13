@@ -19,8 +19,6 @@ I have completed the following courses related to computer science and data scie
 - CSEE W3827: Fundamentals of Computer Systems (digital logic design and MIPS, components of a pipelined microprocessor)
 - COMS W3261: Computer Science Theory (languages, Turing machines, complexity theory)
 - COMS W4170: User Interface Design (the design process and JavaScript, HTML, CSS, JQuery)
-
-In progress, Spring 2025:
 - COMS BC3997: LLM Foundations & Ethics
 - STAT UN1101: Introduction to Statistics
 - STAT UN2102: Applied Statistical Computing (data visualization, exploratory data analysis in R)
