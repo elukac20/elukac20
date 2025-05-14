@@ -20,5 +20,5 @@ I have completed the following courses related to computer science and data scie
 - CSEE W3827: Fundamentals of Computer Systems (digital logic design and MIPS, components of a pipelined microprocessor)
 - COMS W3261: Computer Science Theory (languages, Turing machines, complexity theory)
 - COMS W4170: User Interface Design (the design process and JavaScript, HTML, CSS, JQuery)
-- COMS BC3997: LLM Foundations & Ethics (project using BERT and clustering, PMI, and Gemma3 to analyze database of flagged NSF research award descriptions released by a Senate Committee)
+- COMS BC3997: LLM Foundations & Ethics (project using BERT and clustering, PMI, and Gemma3 to identify false positive flaggings within database of flagged "DEI" NSF research award descriptions)
 - STAT UN2102: Applied Statistical Computing (data visualization, exploratory data analysis in R)
