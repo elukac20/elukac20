@@ -9,7 +9,7 @@ If you would like to see my final project from the summer portion of Break Throu
 I have completed the following courses related to computer science and data science:
 
 - COMS W1004: Introduction to Computer Science and Programming in Java
-- - STAT UN1101: Introduction to Statistics
+- STAT UN1101: Introduction to Statistics
 - COMS W3134: Data Structures in Java
 - COMS W3157: Advanced Programming (systems programming, including: C, command line interface, Git, TCP, HTTP, Socket API)
 - MATH UN1101: Calculus I
