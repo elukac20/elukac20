@@ -22,7 +22,12 @@ I have completed the following courses related to computer science and data scie
 - COMS W4170: User Interface Design (the design process and JavaScript, HTML, CSS, JQuery)
 - COMS BC3997: LLM Foundations & Ethics (project using BERT and clustering, PMI, and Gemma3 to identify false positive flaggings within database of flagged "DEI" NSF research award descriptions)
 - STAT UN2102: Applied Statistical Computing (data visualization, exploratory data analysis in R)
-
-Fall 2025 expected courses:
 - COMS W4705: Natural Language Processing
 - STAT UN2103: Applied Linear Reg Analysis
+- COMS BC3420: Privacy in a Networked World
+
+Fall 2025 expected courses:
+- STAT UN2104: Applied Categorical Data Analysis
+- STAT UN3106: Applied Machine Learning
+- COMS BC3997: AI & 1921 Tulsa Massacre
+
