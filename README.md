@@ -26,7 +26,7 @@ I have completed the following courses related to computer science and data scie
 - STAT UN2103: Applied Linear Reg Analysis
 - COMS BC3420: Privacy in a Networked World
 
-Fall 2025 expected courses:
+Spring 2026 expected courses:
 - STAT UN2104: Applied Categorical Data Analysis
 - STAT UN3106: Applied Machine Learning
 - COMS BC3997: AI & 1921 Tulsa Massacre
