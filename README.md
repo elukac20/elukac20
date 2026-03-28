@@ -29,5 +29,4 @@ I have completed the following courses related to computer science and data scie
 Spring 2026 expected courses:
 - STAT UN2104: Applied Categorical Data Analysis
 - STAT UN3106: Applied Machine Learning
-- COMS BC3997: AI & 1921 Tulsa Massacre
 
